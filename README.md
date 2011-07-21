@@ -1,9 +1,13 @@
 #ExpressionEngine 2 Gist plugin
 
-
+ExpressionEngine 2 Plug-in that can be used to display gists. 
 
 #How to Use
+Place the gist folder in the ./system/expressionengine/third_party/
 
+{exp:gist:fetch id='gistId' file='fileName'}
+
+The id is required and the file is an optional paramater. If the file is supplied only the requested file will be retured.
 
 
 #Legal Stuff
