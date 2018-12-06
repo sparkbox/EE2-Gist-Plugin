@@ -1,6 +1,12 @@
-# ExpressionEngine 2 Gist plugin
+# ExpressionEngine Gist plugin
 
-ExpressionEngine 2 Plug-in that can be used to display gists.
+This ExpressionEngine Plug-in can be used to display gists.
+
+_Compatibility_
+
+- It works on EE2.
+- It is expected to work on EE3.
+- It _might_ work on EE4+ but that hasn't been tested.
 
 ## How to Use
 

@@ -5,7 +5,7 @@
 * @package     ExpressionEngine
 * @version     1.0
 * @category    Plugin
-* @author      Rob Harr <rob@heysparkbox.com>, Patrick Simpson <patrick@heysparkbox.com
+* @author      Rob Harr <rob@heysparkbox.com>, Patrick Simpson <patrick@heysparkbox.com>
 * @link        http://seesparkbox.com
 * @copyright   Copyright (c) 2014, Sparkbox
 * @license     http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported
