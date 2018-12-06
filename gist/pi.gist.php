@@ -11,9 +11,10 @@
 * @license     http://creativecommons.org/licenses/by-sa/3.0/ Creative Commons Attribution-Share Alike 3.0 Unported
 */
 
+// Required for EE2 plugins
 $plugin_info = array(
     'pi_name'         => 'gist',
-    'pi_version'      => '1.1',
+    'pi_version'      => '2.0.0',
     'pi_author'       => 'Rob Harr',
     'pi_author_url'   => 'http://seesparkbox.com/',
     'pi_description'  => 'Gets Gists',
@@ -95,4 +96,4 @@ class Gist {
 }
 
 /* End of file pi.gist.php */
-/* Location: ./foundry/forgeIt/expressionengine/third_party/gist/pi.gist.php */
+/* Location: ./system/expressionengine/third_party/gist/pi.gist.php */
