@@ -3,7 +3,7 @@
 * gist Class
 *
 * @package     ExpressionEngine
-* @version     1.0
+* @version     2.0.0
 * @category    Plugin
 * @author      Rob Harr <rob@heysparkbox.com>, Patrick Simpson <patrick@heysparkbox.com>
 * @link        http://seesparkbox.com
@@ -30,7 +30,7 @@ class Gist {
    * fetch
    *
    * This function returns a gist code
-   *l
+   *
    * @access  public
    * @return  string
    */
